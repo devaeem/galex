@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.glow-conic {
+  filter: blur(75px);
+}
